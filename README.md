@@ -6,7 +6,7 @@
 
 例：
 
-    batrename path exg
+    batrename path exgin extout
 
 ---
 
@@ -14,3 +14,9 @@
 
 - 第一个参数是路径
 - 第二个参数和第三个参数是文件名的匹配规则和替换规则（正则）
+
+---
+
+to do:
+
+文件名或文件夹名有空格，会导致恐慌
